@@ -32,10 +32,11 @@ Some tools, e.g. extract frames from video, are available.
 ## Sample
 A sample of how to training a MaskRCNN model is avalalbe in the Sample folder
 
+
 ## Funding
-```
-This research work is funded by the National Infrastructure Access Programme, which is funded by the Marine Institute under the Marine Research Programme with the support of the Irish Government. This publication has emanated from research supported in part by a research grant from Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289\_P2.
-```
+
+> This research work is funded by the National Infrastructure Access Programme, which is funded by the Marine Institute under the Marine Research Programme with the support of the Irish Government. This publication has emanated from research supported in part by a research grant from Science Foundation Ireland (SFI) under Grant Number SFI/12/RC/2289\_P2.
+
 
 ## Citation
 If you use this dataset in your research, please cite this project.

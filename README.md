@@ -7,7 +7,8 @@ Due to the limited space on Github, the subset annotated videos (45 videos, ~3G)
  
 Annotations are in [data/annotations](data/annotations) folder, currently the annotation is in MaskRCNN format. 
 
-Full video set (over 330k, historical and live videos) can be accessed at: https://smartbay.marine.ie/
+Live video feed can be accessed at: https://smartbay.marine.ie/
+Historical videos (over 330k 2min video clips), can be accessed at [here](https://smartbay.marine.ie/data/video/aja-helo-1H000314/) or click the download arrow on the right top corner of the live video feed.
 
 ## Method
 

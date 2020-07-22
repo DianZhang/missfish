@@ -3,7 +3,7 @@ The <b>M</b>arine <b>I</b>nstitute and <b>S</b>martBay under<b>S</b>ea  <b>Fish<
 
 
 ## Dataset:
-Due to the limited space on Github, the subset annotated videos (45 videos, ~3G) are hosted on Google Drive [link] (https://drive.google.com/file/d/1SnWTu-3tgarfKXuq4vHjcjJZvHDUfi78/view?usp=sharing).
+Due to the limited space on Github, the subset annotated videos (45 videos, ~3G) are hosted on Google Drive [link](https://drive.google.com/file/d/1SnWTu-3tgarfKXuq4vHjcjJZvHDUfi78/view?usp=sharing).
  
 Annotations are in [data/annotations](data/annotations) folder, currently the annotation is in MaskRCNN format. 
 

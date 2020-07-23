@@ -13,11 +13,13 @@ TODO:
 - [ ] add sample images here
 
 Live video feed can be accessed at: https://smartbay.marine.ie/
+
 Historical videos (over 350k 2min video clips), can be accessed at [here](https://smartbay.marine.ie/data/video/aja-helo-1H000314/) or click the download arrow on the right top corner of the live video feed.
 
 ## Method
 
 The Mask R-CNN used in this work is based on matterport repo [link](https://github.com/matterport/Mask_RCNN)
+
 A sample code for training a Mask R-CNN is available under the sample folder. 
  
 ## Trained Model

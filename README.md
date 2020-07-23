@@ -7,12 +7,16 @@ Due to the limited space on Github, the subset annotated videos (45 videos, ~3G)
  
 Annotations are in [data/annotations](data/annotations) folder, currently the annotation is in MaskRCNN format. 
 
+TODO:
+- [ ] add a demo to show the annotation 
+- [ ] add other standard format such as COCO format
+
 Live video feed can be accessed at: https://smartbay.marine.ie/
-Historical videos (over 330k 2min video clips), can be accessed at [here](https://smartbay.marine.ie/data/video/aja-helo-1H000314/) or click the download arrow on the right top corner of the live video feed.
+Historical videos (over 350k 2min video clips), can be accessed at [here](https://smartbay.marine.ie/data/video/aja-helo-1H000314/) or click the download arrow on the right top corner of the live video feed.
 
 ## Method
 
-The Mask RCNN used in this work is based on matterport repo [link](https://github.com/matterport/Mask_RCNN)
+The Mask R-CNN used in this work is based on matterport repo [link](https://github.com/matterport/Mask_RCNN)
 
 --- 
 ## Trained Model
@@ -30,8 +34,9 @@ To simplfy the setup, we used [tensorflow/tensorflow:1.15.0rc2-gpu-py3-jupyter](
 Some tools, e.g. extract frames from video, are available.
 
 ## Sample
-A sample of how to training a MaskRCNN model is avalalbe in the Sample folder
-
+TODO
+- [x] add a Mask R-CNN training sample
+- [ ] add a demo to how to use existing model
 
 ## Funding
 

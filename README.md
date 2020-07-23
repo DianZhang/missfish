@@ -9,7 +9,8 @@ Annotations are in [data/annotations](data/annotations) folder, currently the an
 
 TODO:
 - [ ] add a demo to show the annotation 
-- [ ] add other standard format such as COCO format
+- [ ] add other standard annotation format such as COCO format
+- [ ] add sample images here
 
 Live video feed can be accessed at: https://smartbay.marine.ie/
 Historical videos (over 350k 2min video clips), can be accessed at [here](https://smartbay.marine.ie/data/video/aja-helo-1H000314/) or click the download arrow on the right top corner of the live video feed.
@@ -37,6 +38,8 @@ Some tools, e.g. extract frames from video, are available.
 TODO
 - [x] add a Mask R-CNN training sample
 - [ ] add a demo to how to use existing model
+- [ ] add sample results here
+- [ ] add sample output video here
 
 ## Funding
 

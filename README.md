@@ -18,8 +18,8 @@ Historical videos (over 350k 2min video clips), can be accessed at [here](https:
 ## Method
 
 The Mask R-CNN used in this work is based on matterport repo [link](https://github.com/matterport/Mask_RCNN)
-
---- 
+A sample code for training a Mask R-CNN is available under the sample folder. 
+ 
 ## Trained Model
 Currently, two trained MaskRCNN models are avaliable 
 - retrained (training loss: 0.7314, validation loss:1.3885, validation mAP: 0.6228472, test mAP: 0.60101705): 

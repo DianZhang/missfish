@@ -51,11 +51,18 @@ TODO
 ## Citation
 If you use this dataset in your research, please cite this project.
 ```
-@article{missfish,
-  title   = {Please holder},
-  author  = {please holder},
-  journal= {please holder},
-  year={please holder}
+@article{ZHANG2022107815,
+title = {Coastal fisheries resource monitoring through A deep learning-based underwater video analysis},
+journal = {Estuarine, Coastal and Shelf Science},
+volume = {269},
+pages = {107815},
+year = {2022},
+issn = {0272-7714},
+doi = {https://doi.org/10.1016/j.ecss.2022.107815},
+url = {https://www.sciencedirect.com/science/article/pii/S0272771422000749},
+author = {Dian Zhang and Noel E. O'Conner and Andre J. Simpson and Chunjie Cao and Suzanne Little and Bing Wu},
+keywords = {Ocean survey, Deep learning, Remote underwater video sensing, Mask region based convolutional neural network},
+abstract = {Unlike land, the oceans, although covering more than 70% of the planet, are largely unexplored. Global fisheries resources are central to the sustainability and quality of life on earth but are under threat from climate change, ocean acidification and over consumption. One way to analyze these marine resource is through remote underwater surveying. However, the sheer volume of recorded data often make classification and analyses difficult, time consuming and resource intensive. Recent developments in machine learning (ML) have shown promising application in extracting high level context with near human performance on image classification tasks. The application of ML in remote underwater surveying can drastically reduce the processing time of these datasets. In order to train these deep neural networks used in ML, it is necessary to create a series of large-scale benchmark datasets to test any proposed algorithm for this kind of specific imaging classification. Currently, none of the publicly available datasets in the marine vision research domain have sufficiently large data volumes to reliably train a deep model. In this work, a publicly available large-scale benchmark underwater video dataset is created and used to retrain a state-of-the-art machine vision deep model (MaskRCNN). This model is in turn applied into detecting and classifying underwater marine lives through random under-sampling (RUS), and achieves a reasonably high average precision (0.628 mAP), indicating great applicability of this dataset in training instance segmentation deep neural network for detecting underwater marine species.}
 }
 ```
 

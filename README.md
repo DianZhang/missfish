@@ -3,9 +3,9 @@ The <b>M</b>arine <b>I</b>nstitute and <b>S</b>martBay under<b>S</b>ea  <b>Fish<
 
 
 ## Dataset:
-Due to the limited space on Github, the annotated subset of videos (45 videos, ~3G) is hosted on Google Drive [link](https://drive.google.com/file/d/1SnWTu-3tgarfKXuq4vHjcjJZvHDUfi78/view?usp=sharing).
+Due to the limited space on Github, the annotated subset of videos (45 videos, ~3G) is hosted on MS One Drive [link](https://1drv.ms/f/c/f94e2aa19f5172f3/EsXhczAlMAZPhNpXaPQRt_wB8D0_OCX6yqQ7s9Jjfh0uvg?e=HggCwh).
  
-Annotations are in [data/annotations](data/annotations) folder, currently the annotation is in MaskRCNN format. We are working on other formats, e.g. COCO.
+Annotations are also in the shared link above, currently the annotation is in MaskRCNN format.
 
 TODO:
 - [ ] add a demo to show the annotation 
@@ -23,7 +23,7 @@ The Mask R-CNN used in this work is based on matterport repo [link](https://gith
 A sample code for training a Mask R-CNN is available under the sample folder. 
  
 ## Trained Model
-Currently, two trained MaskRCNN models are avaliable 
+Currently, two trained MaskRCNN models are avaliable (WARNING: old Google drive are not work any more, and I no longer have acces to it. I am trying to find the model and find a new place for it). 
 - retrained (training loss: 0.7314, validation loss:1.3885, validation mAP: 0.6228472, test mAP: 0.60101705): 
 [download](https://drive.google.com/file/d/17O1r7u1WMn2aAWlgSTv8-7-FgOYF0W2S/view?usp=sharing)
 - trained from scrach (training loss: 1.8018, validation loss: 1.6753, validation mAP: 0.09471174753137171, test mAP: 0.09028191691404833): 
